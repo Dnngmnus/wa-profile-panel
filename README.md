@@ -1,7 +1,28 @@
-# WA Multi Profile Panel
+# 🚀 WA Multi Profile Panel
 
-Template siap upload ke GitHub.
+Tool GUI berbasis Node.js + Electron untuk mengelola banyak akun WhatsApp Web sekaligus dan update foto profil secara massal.
 
-## Cara pakai
-npm install
-npm start
+---
+
+## ✨ Fitur
+
+- ✅ Multi session (banyak akun)
+- 🖼️ Upload foto profil massal
+- 📊 Progress bar realtime
+- 📋 Status per akun
+- 💻 GUI (tanpa terminal)
+
+---
+
+## 📦 Persyaratan
+
+Pastikan sudah install:
+
+- Node.js (versi 18+)
+- NPM
+- Git (opsional)
+
+Cek:
+```bash
+node -v
+npm -v
