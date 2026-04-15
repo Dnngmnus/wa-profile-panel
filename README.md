@@ -30,5 +30,5 @@ npm -v
 Cara Install:
 ```bash
 npm install
-npm playwright install
+npx playwright install
 npm start
