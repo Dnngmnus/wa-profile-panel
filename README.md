@@ -26,3 +26,9 @@ Cek:
 ```bash
 node -v
 npm -v
+```
+Cara Install:
+```bash
+npm install
+npm playwright install
+npm start
