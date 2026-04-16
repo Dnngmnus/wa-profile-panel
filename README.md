@@ -1,3 +1,7 @@
+# BOT MAINTENANCE⛔
+
+
+
 # 🚀 WA Multi Profile Panel
 
 Tool GUI berbasis Node.js + Electron untuk mengelola banyak akun WhatsApp Web sekaligus dan update foto profil secara massal.
